@@ -18,13 +18,13 @@ Screenshot:
 ![image](https://github.com/user-attachments/assets/3c967597-b393-49b4-a762-919b7aa2cc92)
 
 URLs:
-/ -  Login Form
-/admin/dashboard/ - Admin Dashboard
-/course/create/ - Course Creation
-/category/create/ - Category Creation
-/student/create/ - Student Registration
-/enrollment/create/ - Student Enrollment
-/student/dashboard/ - Non Super User Login Re-Direct i.e. Student.
+- / -  Login Form
+- /admin/dashboard/ - Admin Dashboard
+- /course/create/ - Course Creation
+- /category/create/ - Category Creation
+- /student/create/ - Student Registration
+- /enrollment/create/ - Student Enrollment
+- /student/dashboard/ - Non Super User Login Re-Direct i.e. Student.
 
 
 
